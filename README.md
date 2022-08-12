@@ -87,11 +87,11 @@ Hypeman will generate text outputs to Discord through a bot.  However, if you ar
 See 'Conda Install.docx' or access it in [google docs.](https://docs.google.com/document/d/e/2PACX-1vTGR67SZMlLo8FRF8aMG17fOhOqAB1Z-zs9WTFE6A_dnZrabC_rQKbEwLOLrNF69YWZDKkq2VzT3vJB/pub)
 
 Example trapsheet utilizing [MOOSE Airboss.](https://flightcontrol-master.github.io/MOOSE_DOCS_DEVELOP/Documentation/Ops.Airboss.html)
-![Graphic](https://github.com/robscallsign/HypeMan/blob/master/Manual%20Images/trapsheet.png?raw=true)
+![Graphic](https://github.com/madmoney99/HypeMan-Legacy/blob/main/Manual%20Images/trapsheet.png?raw=true)
 Greenie Board
-![Graphic](https://github.com/robscallsign/HypeMan/blob/master/Manual%20Images/final.jpg?raw=true)
+![Graphic](https://github.com/madmoney99/HypeMan-Legacy/blob/main/Manual%20Images/final.jpg?raw=true)
 Example targetsheet utilizing [MOOSE RangeBoss](https://flightcontrol-master.github.io/MOOSE_DOCS_DEVELOP/Documentation/Functional.Range.html)
-![Graphic](https://github.com/robscallsign/HypeMan/blob/master/Manual%20Images/targetSheet.png?raw=true)
+![Graphic](https://github.com/madmoney99/HypeMan-Legacy/blob/main/Manual%20Images/targetSheet.png?raw=true)
 
 ## Headers for google sheets
 

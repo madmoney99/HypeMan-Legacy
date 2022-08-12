@@ -1,5 +1,5 @@
 # HYPEMAN 3: THE HYPENING
-HypeMan 3 is a rewrite of the HypeMan discord bot from lua to Python.
+HypeMan 3 is a rewrite of the HypeMan discord bot from lua to Python.  This isn't complete or in a functional state.
 
 ## Wait, why?
 HypeMan was originally written in lua using the [Discordia](https://github.com/SinisterRectus/Discordia "Discordia") lua discord library, and ran in the [luvit](https://luvit.io/) lua repl environment.  At the time it was thought that having the bot written in lua, the same language used in the DCS mission environment, would be handy.  More functionality was added over time, and most of that functionality was implemented with python scripts.  The lua bot called the python functions through windows BAT files which would setup the python environment properly: each new python function would have a .bat file wrapper that would pass command line arguments.  Output was handled by the python code writing files with fixed file names.
