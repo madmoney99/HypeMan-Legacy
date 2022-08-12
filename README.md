@@ -1,5 +1,5 @@
 # HypeMan
-HypeMan brings the hype
+HypeMan brings the hype.  This is the legacy of Rob's original Hypeman.  Rob has left coding for the time being but I will be maintaining Hypeman to work with DCS updates as they come and introducing small feature updates as I can.
 
 # Introduction
 `hypeMan_flightlog.lua` -  This is the script that gets included with your DCS mission.
