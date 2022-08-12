@@ -1,0 +1,18 @@
+THE CURRENT MONTH IS  12
+Attack Type:  Bombing Run
+Ruleset:  all data
+Updating from Google.
+Local HypeMan RANGE grade database updated from Google Sheets.
+... size of data array:  12
+Number of rows kept:  13
+size of data array:  12
+Skipping strafes
+Number remaining:  11
+skipping bombings/strafes not in current month
+pilots before sort: ['Yoda']
+pilots after sort: ['Yoda']
+***** Default Pilot Board *****
+ maxLength is :  20
+maxLength  LESS THAN 50: 
+ RANGE BOMBING BOARD (last 20) 
+done
